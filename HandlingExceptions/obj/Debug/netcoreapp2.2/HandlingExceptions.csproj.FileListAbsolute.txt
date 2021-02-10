@@ -1,0 +1,11 @@
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\HandlingExceptions\obj\Debug\netcoreapp2.2\HandlingExceptions.csprojAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\HandlingExceptions\obj\Debug\netcoreapp2.2\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\HandlingExceptions\obj\Debug\netcoreapp2.2\HandlingExceptions.AssemblyInfoInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\HandlingExceptions\obj\Debug\netcoreapp2.2\HandlingExceptions.AssemblyInfo.cs
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\HandlingExceptions\bin\Debug\netcoreapp2.2\HandlingExceptions.deps.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\HandlingExceptions\bin\Debug\netcoreapp2.2\HandlingExceptions.runtimeconfig.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\HandlingExceptions\bin\Debug\netcoreapp2.2\HandlingExceptions.runtimeconfig.dev.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\HandlingExceptions\bin\Debug\netcoreapp2.2\HandlingExceptions.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\HandlingExceptions\bin\Debug\netcoreapp2.2\HandlingExceptions.pdb
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\HandlingExceptions\obj\Debug\netcoreapp2.2\HandlingExceptions.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\HandlingExceptions\obj\Debug\netcoreapp2.2\HandlingExceptions.pdb

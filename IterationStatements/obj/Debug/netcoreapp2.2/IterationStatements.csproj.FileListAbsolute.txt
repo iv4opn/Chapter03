@@ -1,0 +1,11 @@
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\IterationStatements\bin\Debug\netcoreapp2.2\IterationStatements.deps.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\IterationStatements\bin\Debug\netcoreapp2.2\IterationStatements.runtimeconfig.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\IterationStatements\bin\Debug\netcoreapp2.2\IterationStatements.runtimeconfig.dev.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\IterationStatements\bin\Debug\netcoreapp2.2\IterationStatements.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\IterationStatements\bin\Debug\netcoreapp2.2\IterationStatements.pdb
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\IterationStatements\obj\Debug\netcoreapp2.2\IterationStatements.csprojAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\IterationStatements\obj\Debug\netcoreapp2.2\IterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\IterationStatements\obj\Debug\netcoreapp2.2\IterationStatements.AssemblyInfoInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\IterationStatements\obj\Debug\netcoreapp2.2\IterationStatements.AssemblyInfo.cs
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\IterationStatements\obj\Debug\netcoreapp2.2\IterationStatements.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\IterationStatements\obj\Debug\netcoreapp2.2\IterationStatements.pdb

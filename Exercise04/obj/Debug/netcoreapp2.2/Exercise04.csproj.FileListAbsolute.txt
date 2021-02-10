@@ -1,0 +1,11 @@
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\Exercise04\bin\Debug\netcoreapp2.2\Exercise04.deps.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\Exercise04\bin\Debug\netcoreapp2.2\Exercise04.runtimeconfig.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\Exercise04\bin\Debug\netcoreapp2.2\Exercise04.runtimeconfig.dev.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\Exercise04\bin\Debug\netcoreapp2.2\Exercise04.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\Exercise04\bin\Debug\netcoreapp2.2\Exercise04.pdb
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\Exercise04\obj\Debug\netcoreapp2.2\Exercise04.csprojAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\Exercise04\obj\Debug\netcoreapp2.2\Exercise04.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\Exercise04\obj\Debug\netcoreapp2.2\Exercise04.AssemblyInfoInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\Exercise04\obj\Debug\netcoreapp2.2\Exercise04.AssemblyInfo.cs
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\Exercise04\obj\Debug\netcoreapp2.2\Exercise04.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\Exercise04\obj\Debug\netcoreapp2.2\Exercise04.pdb

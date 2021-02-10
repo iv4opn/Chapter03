@@ -1,0 +1,11 @@
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BitwiseAndShiftOperators\obj\Debug\netcoreapp2.2\BitwiseAndShiftOperators.csprojAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BitwiseAndShiftOperators\obj\Debug\netcoreapp2.2\BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BitwiseAndShiftOperators\obj\Debug\netcoreapp2.2\BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BitwiseAndShiftOperators\obj\Debug\netcoreapp2.2\BitwiseAndShiftOperators.AssemblyInfo.cs
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BitwiseAndShiftOperators\bin\Debug\netcoreapp2.2\BitwiseAndShiftOperators.deps.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BitwiseAndShiftOperators\bin\Debug\netcoreapp2.2\BitwiseAndShiftOperators.runtimeconfig.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BitwiseAndShiftOperators\bin\Debug\netcoreapp2.2\BitwiseAndShiftOperators.runtimeconfig.dev.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BitwiseAndShiftOperators\bin\Debug\netcoreapp2.2\BitwiseAndShiftOperators.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BitwiseAndShiftOperators\bin\Debug\netcoreapp2.2\BitwiseAndShiftOperators.pdb
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BitwiseAndShiftOperators\obj\Debug\netcoreapp2.2\BitwiseAndShiftOperators.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BitwiseAndShiftOperators\obj\Debug\netcoreapp2.2\BitwiseAndShiftOperators.pdb

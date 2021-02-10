@@ -1,0 +1,11 @@
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CheckingForOverflow\bin\Debug\netcoreapp2.2\CheckingForOverflow.deps.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CheckingForOverflow\bin\Debug\netcoreapp2.2\CheckingForOverflow.runtimeconfig.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CheckingForOverflow\bin\Debug\netcoreapp2.2\CheckingForOverflow.runtimeconfig.dev.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CheckingForOverflow\bin\Debug\netcoreapp2.2\CheckingForOverflow.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CheckingForOverflow\bin\Debug\netcoreapp2.2\CheckingForOverflow.pdb
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CheckingForOverflow\obj\Debug\netcoreapp2.2\CheckingForOverflow.csprojAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CheckingForOverflow\obj\Debug\netcoreapp2.2\CheckingForOverflow.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CheckingForOverflow\obj\Debug\netcoreapp2.2\CheckingForOverflow.AssemblyInfoInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CheckingForOverflow\obj\Debug\netcoreapp2.2\CheckingForOverflow.AssemblyInfo.cs
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CheckingForOverflow\obj\Debug\netcoreapp2.2\CheckingForOverflow.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CheckingForOverflow\obj\Debug\netcoreapp2.2\CheckingForOverflow.pdb

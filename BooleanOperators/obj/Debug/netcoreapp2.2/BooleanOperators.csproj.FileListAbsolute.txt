@@ -1,0 +1,11 @@
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BooleanOperators\bin\Debug\netcoreapp2.2\BooleanOperators.deps.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BooleanOperators\bin\Debug\netcoreapp2.2\BooleanOperators.runtimeconfig.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BooleanOperators\bin\Debug\netcoreapp2.2\BooleanOperators.runtimeconfig.dev.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BooleanOperators\bin\Debug\netcoreapp2.2\BooleanOperators.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BooleanOperators\bin\Debug\netcoreapp2.2\BooleanOperators.pdb
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BooleanOperators\obj\Debug\netcoreapp2.2\BooleanOperators.csprojAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BooleanOperators\obj\Debug\netcoreapp2.2\BooleanOperators.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BooleanOperators\obj\Debug\netcoreapp2.2\BooleanOperators.AssemblyInfoInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BooleanOperators\obj\Debug\netcoreapp2.2\BooleanOperators.AssemblyInfo.cs
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BooleanOperators\obj\Debug\netcoreapp2.2\BooleanOperators.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\BooleanOperators\obj\Debug\netcoreapp2.2\BooleanOperators.pdb

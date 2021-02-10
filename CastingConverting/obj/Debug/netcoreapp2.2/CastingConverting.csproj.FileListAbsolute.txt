@@ -1,0 +1,11 @@
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CastingConverting\bin\Debug\netcoreapp2.2\CastingConverting.deps.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CastingConverting\bin\Debug\netcoreapp2.2\CastingConverting.runtimeconfig.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CastingConverting\bin\Debug\netcoreapp2.2\CastingConverting.runtimeconfig.dev.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CastingConverting\bin\Debug\netcoreapp2.2\CastingConverting.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CastingConverting\bin\Debug\netcoreapp2.2\CastingConverting.pdb
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CastingConverting\obj\Debug\netcoreapp2.2\CastingConverting.csprojAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CastingConverting\obj\Debug\netcoreapp2.2\CastingConverting.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CastingConverting\obj\Debug\netcoreapp2.2\CastingConverting.AssemblyInfoInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CastingConverting\obj\Debug\netcoreapp2.2\CastingConverting.AssemblyInfo.cs
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CastingConverting\obj\Debug\netcoreapp2.2\CastingConverting.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\CastingConverting\obj\Debug\netcoreapp2.2\CastingConverting.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\SelectionStatements\bin\Debug\netcoreapp2.2\SelectionStatements.deps.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\SelectionStatements\bin\Debug\netcoreapp2.2\SelectionStatements.runtimeconfig.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\SelectionStatements\bin\Debug\netcoreapp2.2\SelectionStatements.runtimeconfig.dev.json
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\SelectionStatements\bin\Debug\netcoreapp2.2\SelectionStatements.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\SelectionStatements\bin\Debug\netcoreapp2.2\SelectionStatements.pdb
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\SelectionStatements\obj\Debug\netcoreapp2.2\SelectionStatements.csprojAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\SelectionStatements\obj\Debug\netcoreapp2.2\SelectionStatements.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\SelectionStatements\obj\Debug\netcoreapp2.2\SelectionStatements.AssemblyInfoInputs.cache
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\SelectionStatements\obj\Debug\netcoreapp2.2\SelectionStatements.AssemblyInfo.cs
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\SelectionStatements\obj\Debug\netcoreapp2.2\SelectionStatements.dll
+C:\Users\Ivo\Documents\Visual Studio 2017\Visaul Studio Code\Chapter03\Operators\SelectionStatements\obj\Debug\netcoreapp2.2\SelectionStatements.pdb
